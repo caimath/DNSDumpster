@@ -1,0 +1,8 @@
+# Curl
+sudo apt install curl
+
+# jq
+sudo apt install jq
+
+# fzf
+sudo apt install fzf
