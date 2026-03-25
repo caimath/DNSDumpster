@@ -1,16 +1,20 @@
 # DNSDumpster
 
 ## Aim
-* Tool for DNS passive enumeration with the [DNSDumpster API](https://dnsdumpster.com/developer)
+* Tool for passive DNS enumeration with the [DNSDumpster free API](https://dnsdumpster.com/developer) (50 free queries/day)
 
 ## Done
-* Query one domain by run
+* Query a single domain per run
+* Query multiple domains from a file
 
 ## To do
-* Query multiple domains in a file
-* Markdown report and HTML report
+* Generate Markdown and HTML reports
 
-## Use
+## Installation
+* Create an account on [DNSDumpster](https://dnsdumpster.com/my-account/)
+* Copy your API key
+* Create a `.env` file
+* In `.env` file, define `APIKEY` variable
 * Install the packages in [requirements.txt](requirements.txt)
 
 ```bash
