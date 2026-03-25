@@ -14,6 +14,7 @@
 * Install the packages in [requirements.txt](requirements.txt)
 
 ```bash
-# Run 
+# Run
+chmod +x dnsdumpster.sh
 ./dnsdumpster.sh
 ```
