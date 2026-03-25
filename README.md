@@ -9,6 +9,7 @@
 
 ## To do
 * Generate Markdown and HTML reports
+* Handle errors
 
 ## Installation
 * Create an account on [DNSDumpster](https://dnsdumpster.com/my-account/)
